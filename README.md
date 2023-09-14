@@ -1,6 +1,6 @@
 ### 💫 About Me:
 Hey there 👋<br>
-I am a bioinformatician 🧬🧑🏻‍💻 [@russelllab](http://russelllab.org/) (Uni-HD) with a strong interest in using computational tools to analyze biological data and gain insights into complex biological systems. I enjoy working collaboratively with interdisciplinary teams to understand biological problems and develop novel approaches to solve them.
+I am a bioinformatician 🧬🧑🏻‍💻 in Team [VPE](https://github.com/VirtualPatientEngine) at [BioMed X](https://bio.mx/research-teams/artificial-intelligence/team-vpe/) with a strong interest in using computational tools to analyze biological data and gain insights into complex biological systems. I enjoy working collaboratively with interdisciplinary teams to understand biological problems and develop novel approaches to solve them.
 
 Checkout my recent collaborations:
 * [raimondilab/precogx](https://github.com/raimondilab/precogx): Develop an ML-guided tool ([PRECOGx](precogx.bioinfo1.sns.it)) to explore GPCR signaling mechanisms with deep protein representations (in collaboration with [Raimondi lab](https://bioinfolab.sns.it/) at SNS, Pisa, Italy)
